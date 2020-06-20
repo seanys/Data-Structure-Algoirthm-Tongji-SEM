@@ -52,7 +52,7 @@ This repository contains code and my notes data structures and algorithms taught
 
 The best example for divide and conquer is [merge sort](#merge-sort) which divides a large sorting problem into some small compare problems. This algorithm is robust and quick.
 
-![image-20200611223921435](/Users/sean/Documents/Projects/My Github/Data-Structure-Algoirthm-Tongji-SEM/img/image-20200611223921435.png)
+![image-20200611223921435](img/image-20200611223921435.png)
 
 ### Time complexity
 
@@ -60,9 +60,9 @@ The best example for divide and conquer is [merge sort](#merge-sort) which divid
 
 For example, quick sort's average time complexity is Θ(nlgn) and the worest case O(n^2).
 
-<img src="/Users/sean/Documents/Projects/My Github/Data-Structure-Algoirthm-Tongji-SEM/img/image-20200611221836909.png" alt="image-20200611221836909" style="float:left" height="130px" />
+<img src="img/image-20200611221836909.png" alt="image-20200611221836909" style="float:left" height="130px" />
 
-<img src="/Users/sean/Documents/Projects/My Github/Data-Structure-Algoirthm-Tongji-SEM/img/image-20200611221854284.png" alt="image-20200611221854284" width="300px" style="float:left" />
+<img src="img/image-20200611221854284.png" alt="image-20200611221854284" width="300px" style="float:left" />
 
 ## Sorting Algorithms
 
